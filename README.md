@@ -2,7 +2,7 @@
 
 The hardware referenced in this repository is no longer supported by Graphcore. Information and tools are provided here without warranty or support in the hope that they will be useful to hobbyists and computer historians.
 
-Please see the LICENSE file and read the EULA document before using the software: [EULA](EULA.md).
+Please read any licenses and the EULA before using the software: [EULA](LICENSE).
 
 This repository contains information and tools for the legacy products listed below:
 
